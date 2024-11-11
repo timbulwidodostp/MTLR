@@ -1,6 +1,8 @@
 # MTLR
 Multi-Task Logistic Regression Use mtlr With (In) R Software
 
+https://www.youtube.com/watch?v=W9IIQklx5JM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
